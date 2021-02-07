@@ -11,7 +11,7 @@
 1. github 的 actions 可以免费执行代码
 2. github 的 actions 可以定时调度
 
-**自动签到方式**
+**自动签到方式**。
 
 1. fork 此项目
 2. 在 fork 出的项目中设置 cookie
